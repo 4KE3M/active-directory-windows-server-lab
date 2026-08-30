@@ -70,6 +70,11 @@ In this step, I built a PowerShell automation script that reads new-hire informa
 
 ![Image](https://nextwork.ai/surprised_yellow_clever_kingfisher/uploads/c535e3a2-10b3-4008-9ff9-0bb284b11497_mrnv0j9f)
 
+### Automation Artifacts
+
+- [PowerShell Bulk User Provisioning Script](scripts/New-BulkUsers.ps1)
+- [Sample Employee CSV Data](data/employees.csv)
+
 ### Verifying total domain user count
 
 The count shows 16 because the domain also has built-in accounts such as Administrator, Guest, and krbtgt in addition to the 13 users I created.
